@@ -19,7 +19,7 @@ Feature: As a user I want to be able to set the counter to value zero
 
 5 Scenarios (?[32m5 passed?[0m)
 19 Steps (?[32m19 passed?[0m)
-0m0.082s
+0m0.080s
 
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
